@@ -17,3 +17,5 @@
    to merge branch2 into branch1, you can simply git checkout branch1 and then type git merge branch2. The only
    reason to type git merge branch1 branch2 is if it helps you keep better mental track of which branches you are
    merging.
+10.)git log OR git reflog (to find the last commit ID)
+11.)git reset –merge (to revert to the commit you specify)
