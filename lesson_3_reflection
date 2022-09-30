@@ -1,3 +1,7 @@
-When would you want to use a remote repository rather than keeping all your work
+Q.) When would you want to use a remote repository rather than keeping all your work
 local?
-ans.)when i want others also to track my file and give feedback on that.
+Ans.) when i want others also to track my file and give feedback on that.
+
+Also, since the two branches are merged, the order in which they are typed into the command line does not 
+   matter. The key is to remember that git merge always merges all the specified branches into the currently 
+   checked out branch, creating a new commit for that branch
